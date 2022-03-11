@@ -1,3 +1,3 @@
 # JiaxiCai.github.io
-This is my GitHub website!
+Trying to make my GitHub website using GitHub Pages.
 Bioinformatics!
